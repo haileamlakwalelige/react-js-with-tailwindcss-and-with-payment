@@ -16,7 +16,7 @@ NPM (v7 or higher)
 
 # Installation
 
-1. Clone this repository to your local machine using git clone https://github.com/your-username/react-tailwind-paypal.git.
+1. Clone this repository to your local machine using git clone https://github.com/haileamlakwalelige/react-tailwind-paypal.git.
 2. Navigate to the project directory using cd react-tailwind-PayPal.
 3. Install the dependencies using npm install.
 4. Create a .env file in the root of the project and add your PayPal API credentials as follows:
@@ -25,7 +25,9 @@ NPM (v7 or higher)
 
 # Usage
 To start the application, run the following command:
-<a>npm start</a>
+
+## npm start 
+
 This will start the development server and launch the application in your default browser at http://localhost:3000.
 
 # PayPal Integration
